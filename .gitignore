@@ -27,5 +27,6 @@ replay_pid*
 
 jpackage/windows/tempfiles/
 
-
+/target
+.settings
 
